@@ -1,7 +1,7 @@
 # Project Initialisation Automation
 This is a simple python script that helps me when starting a new project. This was written using PyGithub python lib.
 
-####My process of creating a new project:
+#### My process of creating a new project:
 1. Open Terminal window and go to where I keep my projects
 2. Creates folder
 3. Go to the folder I just created
